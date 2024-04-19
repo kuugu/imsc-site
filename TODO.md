@@ -1,0 +1,3 @@
+- for small screens, icon is getting squished
+- for small screens, collapse navbar into menu 
+- add pages for the buttons in the navbar 
